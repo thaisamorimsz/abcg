@@ -1,3 +1,27 @@
+# Thais Amorim Souza - RA:11201810655
+
+
+Este repositório se trata de um fork da biblioteca ABCG implementada pelo Dr. Harlen Batagelo, aqui seram implementadas algumas aplicações ao longo do 3ºquadrimestre de 2022 para a fixação dos conceitos aprendidos na matéria MCTA008-17 Computação Gráfica
+
+## Entregas:
+- Aplicação interativa com interface do Dear ImGui:
+    - Para esta primeira entrega a ideia era explorar a interface gráfica da biblioteca Dear ImGui. Aqui foi implementado de forma simples um visualizador de polígonos, no primeiro momento só é possível alternar a visualização entre 4 polígonos regulares:
+        - ![img]()
+        - ![img]()
+        - ![img]()
+        - ![img]()
+    - A ideia é dar continuidade a implementação deste utilitário nas próximas entregas, o que ainda falta ser feito:
+        * [ ] Adicionar mais exemplos de polígonos regulares e criar um método que faça a análise do tipo escolhido;
+        * [ ] Adicionar no widget um seletor de cores para o polígono, assim como foi feito para o background;
+        * [ ] Permitir que o usuário possa delimitar o tamanho de exibição do polígono;
+        * [ ] Explorar a criação de um algoritmo para gerar polígonos irregulares;
+        * [ ] Explorar a possibilidade de criar um jogo a partir dos conceitos dos polígonos, no qual o usuário precisaria acertar qual o nome e tipo do polígono;
+        * [ ] Animar os polígonos em 3D;
+        * [ ] Explorar a possibilidade do usuário poder controlar por mouse a rotação dos polígonos em diferentes direções;
+        * [ ] Explorar conceitos de iluminação e textura em polígonos 3D.
+
+
+------------------------------------------------------------------------------------------------------------------
 # ABCg
 
 ![linux workflow](https://github.com/hbatagelo/abcg/actions/workflows/linux.yml/badge.svg)
