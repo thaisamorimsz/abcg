@@ -6,10 +6,10 @@ Este repositório se trata de um fork da biblioteca ABCG implementada pelo Dr. H
 ## Entregas:
 - Aplicação interativa com interface do Dear ImGui:
     - Para esta primeira entrega a ideia era explorar a interface gráfica da biblioteca Dear ImGui. Aqui foi implementado de forma simples um visualizador de polígonos, no primeiro momento só é possível alternar a visualização entre 4 polígonos regulares:
-        - ![img]()
-        - ![img]()
-        - ![img]()
-        - ![img]()
+        - ![img](https://github.com/thaisamorimsz/abcg/blob/main/images/regular_triangle.png)
+        - ![img](https://github.com/thaisamorimsz/abcg/blob/main/images/regular_quadrilateral.png)
+        - ![img](https://github.com/thaisamorimsz/abcg/blob/main/images/regular_pentagon.png)
+        - ![img](https://github.com/thaisamorimsz/abcg/blob/main/images/regular_hexagon.png)
     - A ideia é dar continuidade a implementação deste utilitário nas próximas entregas, o que ainda falta ser feito:
         * [ ] Adicionar mais exemplos de polígonos regulares e criar um método que faça a análise do tipo escolhido;
         * [ ] Adicionar no widget um seletor de cores para o polígono, assim como foi feito para o background;
