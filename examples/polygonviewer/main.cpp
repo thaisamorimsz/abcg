@@ -6,7 +6,7 @@ int main(int argc, char **argv) {
 
     Window window;
     window.setWindowSettings(
-        {.width = 1000, .height = 600, .title = "Polygon Viewer"});
+        {.width = 800, .height = 800, .title = "Polygon Viewer"});
 
     app.run(window);
   } catch (std::exception const &exception) {
