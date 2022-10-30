@@ -11,14 +11,18 @@ Este repositório se trata de um fork da biblioteca ABCG implementada pelo Dr. H
         - <img src="https://github.com/thaisamorimsz/abcg/blob/main/images/regular_pentagon.png"  width="600" height="600">
         - <img src="https://github.com/thaisamorimsz/abcg/blob/main/images/regular_hexagon.png" width="600" height="600">
     - A ideia é dar continuidade a implementação deste utilitário nas próximas entregas, o que ainda falta ser feito:
-        * [ ] Adicionar mais exemplos de polígonos regulares e criar um método que faça a análise do tipo escolhido;
+        * [X] Adicionar mais exemplos de polígonos regulares e criar um método que faça a análise do tipo escolhido;
         * [ ] Adicionar no widget um seletor de cores para o polígono, assim como foi feito para o background;
-        * [ ] Permitir que o usuário possa delimitar o tamanho de exibição do polígono;
+        * [X] Permitir que o usuário possa delimitar o tamanho de exibição do polígono;
         * [ ] Explorar a criação de um algoritmo para gerar polígonos irregulares;
         * [ ] Explorar a possibilidade de criar um jogo a partir dos conceitos dos polígonos, no qual o usuário precisaria acertar qual o nome e tipo do polígono;
         * [ ] Animar os polígonos em 3D;
         * [ ] Explorar a possibilidade do usuário poder controlar por mouse a rotação dos polígonos em diferentes direções;
         * [ ] Explorar conceitos de iluminação e textura em polígonos 3D.
+    -Aplicação interativa com gráficos 2D:
+        Nesta segunda entrega foram implementadas melhorias no visulizador de póligonos, as quais:
+        * Agora o usuário com as setas PgLeft e PgRight consegue ir alterando o número de vertices dos póligonos regulares;
+        * E também o usuário tem a opção de aplicar efeito de Zoom com as setas PgUp e PgDown, sendo as proporções de 50% e 25%;
 
 
 ------------------------------------------------------------------------------------------------------------------
